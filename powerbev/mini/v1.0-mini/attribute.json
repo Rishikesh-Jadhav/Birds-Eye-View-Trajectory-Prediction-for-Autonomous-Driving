@@ -1,0 +1,62 @@
+[
+{
+"token": "271f6773e4d2496cbb9942c204c8a4c1",
+"name": "cycle.with_rider",
+"description": "There is a rider on the bicycle or motorcycle."
+},
+{
+"token": "725f0121878f4c86909f256fd9df8569",
+"name": "cycle.without_rider",
+"description": "There is NO rider on the bicycle or motorcycle."
+},
+{
+"token": "963614d0532a4c6e946d303a94f40a3e",
+"name": "pedestrian.moving",
+"description": "The human is moving."
+},
+{
+"token": "8c92f43bdb7c4df399aac34068f08f0f",
+"name": "pedestrian.sitting_lying_down",
+"description": "The human is sitting or lying down."
+},
+{
+"token": "60346f6d0fcd4d9eadd6f64c77dd1e93",
+"name": "pedestrian.standing",
+"description": "The human is standing."
+},
+{
+"token": "abc0f113547848a9baaa62096fca37f5",
+"name": "vehicle.moving",
+"description": "Vehicle is moving."
+},
+{
+"token": "9f65c1eaa74e4d5db46e87a34811e994",
+"name": "vehicle.parked",
+"description": "Vehicle is stationary (usually for longer duration) with no immediate intent to move."
+},
+{
+"token": "46dfc76161234ff1a74eff81da7daab0",
+"name": "vehicle.stopped",
+"description": "Vehicle, with a driver/rider in/on it, is currently stationary but has an intent to move."
+},
+{
+"token": "3ba0a4fefa8a46f39118e35e45c4111a",
+"name": "vehicle_light.emergency.flashing",
+"description": "Vehicle is flashing emergency lights."
+},
+{
+"token": "67125c542a1e4e25aa05dcf1c3a282b9",
+"name": "vehicle_light.emergency.not_flashing",
+"description": "Vehicle is not flashing emergency lights."
+},
+{
+"token": "f8cc93a317e04f098423bedb0150e35a",
+"name": "vertical_position.off_ground",
+"description": "Object is not on the ground plane, e.g. flying, falling, jumping or positioned in a tree or on a vehicle."
+},
+{
+"token": "ca7cd5668bac48c6b670c43fc4c6f21b",
+"name": "vertical_position.on_ground",
+"description": "Object is on the ground plane."
+}
+]

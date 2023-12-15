@@ -1,0 +1,32 @@
+[
+{
+"token": "17fc695a07a04a6e8822e8f36c031199",
+"channel": "CAM_FRONT_RIGHT",
+"modality": "camera"
+},
+{
+"token": "23b8c1e9392446debeb13b9046685257",
+"channel": "CAM_FRONT",
+"modality": "camera"
+},
+{
+"token": "972a846916414f828b9d2434e465e150",
+"channel": "CAM_BACK_LEFT",
+"modality": "camera"
+},
+{
+"token": "9a1de644815e46d1bb8faa1837f8a88b",
+"channel": "CAM_BACK_RIGHT",
+"modality": "camera"
+},
+{
+"token": "bd9c66b3ad3c4d6d9a3d1fa7bc8960a9",
+"channel": "CAM_FRONT_LEFT",
+"modality": "camera"
+},
+{
+"token": "bdd640fb06674ad19c80317fa3b1799d",
+"channel": "CAM_BACK",
+"modality": "camera"
+}
+]
