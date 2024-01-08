@@ -2,7 +2,6 @@
 * Contributors : Aman Sharma , Vyshnav Achuthan , Neha Madhekar , Rishikesh Jadhav , Wu Xiyang 
 
 
-
 ![](.github/PowerBev2.jpg)
 
 
